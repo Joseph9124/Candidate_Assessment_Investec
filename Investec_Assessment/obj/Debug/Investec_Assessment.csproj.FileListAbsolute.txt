@@ -1,0 +1,8 @@
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\bin\Debug\Investec_Assessment.exe.config
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\bin\Debug\Investec_Assessment.exe
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\bin\Debug\Investec_Assessment.pdb
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\obj\Debug\Investec_Assessment.csproj.AssemblyReference.cache
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\obj\Debug\Investec_Assessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\obj\Debug\Investec_Assessment.csproj.CoreCompileInputs.cache
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\obj\Debug\Investec_Assessment.exe
+C:\Users\JosephMa\Documents\Investec_Assessment_2\Investec_Assessment\obj\Debug\Investec_Assessment.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb4d023a-715e-4f3d-a145-8ffad6d6594a": {
+      "ProjectGuid": "fb4d023a-715e-4f3d-a145-8ffad6d6594a",
+      "DisplayName": "Investec_Assessment",
+      "ColorIndex": 0
+    },
+    "4f1558a2-cef6-46df-be91-551f5cd31db0": {
+      "ProjectGuid": "4f1558a2-cef6-46df-be91-551f5cd31db0",
+      "DisplayName": "Investec_Assessment_Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
